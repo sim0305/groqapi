@@ -8,11 +8,11 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Reddit API credentials
-REDDIT_CLIENT_ID = 'b4P7VlM0ZIOl7nROFj8r-nw'
-REDDIT_CLIENT_SECRET = 'tp-ex6nVcQyJWpT209wONvv0puUFrA'
-REDDIT_USERNAME = 'Simran0305'
-REDDIT_PASSWORD = 'simransmidel'
-REDDIT_USER_AGENT = 'GroqContentBot/0.1'
+REDDIT_CLIENT_ID = '<your_client_id>'
+REDDIT_CLIENT_SECRET = '<your_client_secret>'
+REDDIT_USERNAME = '<your_username>'
+REDDIT_PASSWORD = '<your_password>'
+REDDIT_USER_AGENT = '<your_user_agent>'
 
 # Groq API credentials
 GROQ_API_KEY = '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'
