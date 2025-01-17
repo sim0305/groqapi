@@ -47,7 +47,7 @@ Before running this bot, make sure you have:
 2. The bot will execute daily at the scheduled time specified in the code.
 
 ## Files
-- `groqbot.py`: The main script for the bot.
+- `app.py`: The main script for the bot.
 - `requirements.txt`: Lists the dependencies needed for the project.
 
 ## Sample Output
